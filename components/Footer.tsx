@@ -51,7 +51,7 @@ export function Footer() {
           <Pressable onPress={() => Linking.openURL(`mailto:${site.email}`)}>
             <Text style={styles.link}>{site.email}</Text>
           </Pressable>
-          <Text style={styles.note}>501(c)(3) nonprofit · Metro Atlanta</Text>
+          <Text style={styles.note}>{site.nonprofitStatus} nonprofit · Metro Atlanta</Text>
         </View>
       </View>
 

@@ -5,6 +5,8 @@ export const site = {
   location: 'Johns Creek, GA · Metro Atlanta',
   email: 'pai.rishi0709@gmail.com',
   year: 2026,
+  /** Zero-width non-joiner keeps fonts from turning "(c)" into © */
+  nonprofitStatus: '501(c\u200c)(3)',
 };
 
 export const home = {
@@ -18,7 +20,7 @@ export const home = {
   missionEyebrow: 'Our Mission',
   missionTitle: 'For people, for planet, and for good.',
   missionBody:
-    'Junkture e-Waste Inc. is a 501(c)(3) nonprofit organization in Metro Atlanta that empowers communities to responsibly recycle and reconnect with technology, diverting e-waste from landfills and giving electronics a second life for a more sustainable future.',
+    `Junkture e-Waste Inc. is a ${site.nonprofitStatus} nonprofit organization in Metro Atlanta that empowers communities to responsibly recycle and reconnect with technology, diverting e-waste from landfills and giving electronics a second life for a more sustainable future.`,
 };
 
 export const stats = [
@@ -90,7 +92,7 @@ export const join = {
     },
     {
       label: 'Organization',
-      value: 'Junkture e-Waste Inc. · 501(c)(3)',
+      value: `Junkture e-Waste Inc. · ${site.nonprofitStatus}`,
       href: undefined as string | undefined,
     },
   ],
