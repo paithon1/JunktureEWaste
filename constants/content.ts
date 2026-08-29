@@ -25,7 +25,7 @@ export const home = {
 
 export const stats = [
   {
-    value: 3410,
+    value: 2400,
     prefix: '',
     suffix: '+',
     label: 'electronics diverted from landfills',
