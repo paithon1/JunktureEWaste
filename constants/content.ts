@@ -25,14 +25,14 @@ export const home = {
 
 export const stats = [
   {
-    value: 2400,
+    value: 3410,
     prefix: '',
     suffix: '+',
     label: 'electronics diverted from landfills',
     detail: 'Thousands of electronics collected and kept out of the waste stream.',
   },
   {
-    value: 26400,
+    value: 41400,
     prefix: '$',
     suffix: '',
     label: 'estimated donation value',
