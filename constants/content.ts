@@ -32,7 +32,7 @@ export const stats = [
     detail: 'Thousands of electronics collected and kept out of the waste stream.',
   },
   {
-    value: 41400,
+    value: 33400,
     prefix: '$',
     suffix: '',
     label: 'estimated donation value',
