@@ -4,7 +4,7 @@
     "slug": "JunktureEWaste",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/brand/logo-circle.png",
     "userInterfaceStyle": "light",
     "scheme": "junkture",
     "newArchEnabled": true,
@@ -41,7 +41,7 @@
       "output": "static",
       "favicon": "./assets/favicon.png",
       "title": "Junkture e-Waste Inc.",
-      "description": "Reviving Tech, Restoring the Planet — a Metro Atlanta nonprofit diverting e-waste and giving electronics a second life."
+      "description": "Reviving Tech, Restoring the Planet \u2014 a Metro Atlanta nonprofit diverting e-waste and giving electronics a second life."
     }
   }
 }

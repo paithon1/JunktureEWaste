@@ -13,6 +13,8 @@ export default function Root({ children }: PropsWithChildren) {
           content="Junkture e-Waste Inc. — Reviving Tech, Restoring the Planet. A Metro Atlanta nonprofit diverting e-waste and giving electronics a second life."
         />
         <title>Junkture e-Waste Inc.</title>
+        <link rel="icon" type="image/png" href="/favicon.png" />
+        <link rel="apple-touch-icon" href="/favicon-192.png" />
         <ScrollViewStyleReset />
         <style dangerouslySetInnerHTML={{ __html: responsiveBackground }} />
       </head>
