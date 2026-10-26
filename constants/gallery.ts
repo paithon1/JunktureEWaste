@@ -34,7 +34,7 @@ export const galleryItems: GalleryItem[] = [
     title: 'Trunk-side handoff',
     caption:
       'A donor meets us at the curb—tower units and a bin of cables leave the car for a second life.',
-    aspectRatio: 1200 / 1600,
+    aspectRatio: 1200 / 1600
   },
   {
     id: '3903',
