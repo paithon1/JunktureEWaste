@@ -20,7 +20,7 @@ export const home = {
   missionEyebrow: 'Our Mission',
   missionTitle: 'For people, for planet, and for good.',
   missionBody:
-    `Junkture e-Waste Inc. is a ${site.nonprofitStatus} nonprofit organization in Metro Atlanta that empowers communities to responsibly recycle and reconnect with technology, diverting e-waste from landfills and giving electronics a second life for a more sustainable future.`,
+    `Junkture e-Waste Inc. is a ${site.nonprofitStatus} nonprofit organization in Metro Atlanta that empowers communities to responsibly recycle and reconnect with technology, diverting e-waste from landfills and giving electronics a second life for a more sustainable future. Headquartered in Johns Creek, GA, we are Johns Creek’s first electronic waste recycling organization.`,
 };
 
 export const stats = [
@@ -53,7 +53,8 @@ export const about = {
   belief:
     'At Junkture e-Waste, we believe that no device should die in a landfill when it can power a future.',
   body: [
-    'Based in Johns Creek, GA (North Atlanta), we are a nonprofit organization dedicated to collecting electronic waste (e-waste) and giving it a second life. Through community drives and donations, we gather everything from cables and printers to laptops and tablets—whether working or not.',
+    'Based in Johns Creek, GA (North Atlanta), we are a nonprofit organization dedicated to collecting electronic waste (e-waste) and giving it a second life. As the first electronic waste recycling organization headquartered in Johns Creek, we are proud to put our hometown on the map for responsible tech reuse. Through community drives and donations, we gather everything from cables and printers to laptops and tablets—whether working or not.',
+    'We began developing Junkture e-Waste in February 2025, building the organization from the ground up around community collection, hands-on refurbishment, and access to technology.',
     'What sets us apart is our hands-on approach: we help refurbish devices manually, working alongside skilled volunteers and local partners to ensure each item is tested, repaired, and restored. Devices that can’t be saved are responsibly recycled, keeping toxic waste out of our environment.',
     'Refurbished tech is then distributed to underserved communities, bridging the digital divide and giving students, families, and job seekers access to tools they need to thrive.',
   ],
